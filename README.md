@@ -1,4 +1,4 @@
 ## 注意
 
-这是使用了hexo的主题Aircloud的博客
+这个博客用的是hexo的主题Aircloud
 
