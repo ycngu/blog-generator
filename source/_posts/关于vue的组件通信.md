@@ -69,14 +69,29 @@ inject: ['getMap']
 
 ## 另外一些方法
 ```javascript
+// 根组件
 this.$root
 ```
 ```javascript
 this.$parent
 ```
 ```javascript
+//注意，是直接子组件
 this.$children
 ```
 ```javascript
 this.$refs
+
+var req = new XMLhttpRequest()
+req.open('GET','',true)
+req.onreadystatechange=function(){
+  if(req.readyState==4&&req.status==200){
+    var str = req.responseText
+    console.log(str)
+  }
+}
+
+req.send()
 ```
+
+
