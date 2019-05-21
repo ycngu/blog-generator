@@ -1,7 +1,7 @@
 ---
 title: 为什么不直接用VW而是用rem？
 date: 2019-05-21 18:56:24
-tags:
+tags: [css,布局]
 ---
 
 # 为什么不直接用VW而是用rem？
@@ -16,5 +16,9 @@ PS:以前我在chrome使用vw，窗口resize，但是vw值并没有改变，现�
 
 ## rem和vw的兼容性
 rem的兼容性比vw的兼容性好，看下图
-![rem-suit.jpg](source/_posts/为什么不直接用VW而是用rem？/rem-suit.png)
-![vw-suit.jpg](source/_posts/为什么不直接用VW而是用rem？/vw-suit.png)
+![rem-suit.jpg](为什么不直接用VW而是用rem？/rem-suit.png)
+![vw-suit.jpg](为什么不直接用VW而是用rem？/vw-suit.png)
+
+附录：张鑫旭写的一篇关于vw的文章
+https://www.zhangxinxu.com/wordpress/2016/08/vw-viewport-responsive-layout-typography/
+
