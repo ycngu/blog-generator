@@ -43,6 +43,4 @@ console.log(Book.name);  // 《vue权威指南》
 这就是所谓的getter和setter。
 通过这个api我们就可以实现 data 到 view的单向绑定。
 
-要实现view到data的绑定，在dom节点上绑定事件就可以了
-
 ### 
