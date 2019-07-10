@@ -1,5 +1,5 @@
 ---
-title: 跟着方方写代码（jquery)
+title: 来写一写jquery
 date: 2018-11-13 10:29:55
 tags: ['jquery','javascript']
 ---
