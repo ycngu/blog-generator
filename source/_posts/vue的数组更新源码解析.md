@@ -124,7 +124,6 @@ methodsToPatch.forEach(function (method) {
   };
 ```
 
+啊，我看不懂了，还需加强学习，接下来请看[这个大神的文章](https://ustbhuangyi.github.io/vue-analysis/reactive/questions.html#%E6%95%B0%E7%BB%84)
+
 未完待续...
-
-
-
